@@ -45,4 +45,4 @@ if house[N][N] == 1 or (house[1][3]==1 and house[2][2]==1) or (house[N][N-1]==1 
     exit()
 
 dfs(1,2,0)
-print(count)
+print(count)    
