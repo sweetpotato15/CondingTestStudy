@@ -25,4 +25,3 @@ for i in range(N):
     ans = max(ans, sorted_A[i][0]-i)
 print(ans+1)
 
- 
